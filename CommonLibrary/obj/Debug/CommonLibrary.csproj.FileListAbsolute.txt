@@ -1,0 +1,8 @@
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\CommonLibrary\bin\Debug\ConnectionStringFile.txt
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\CommonLibrary\bin\Debug\TST.CommonLibrary.dll
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\CommonLibrary\bin\Debug\TST.CommonLibrary.pdb
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\CommonLibrary\bin\Debug\log4net.dll
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\CommonLibrary\bin\Debug\log4net.xml
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\CommonLibrary\obj\Debug\TST.CommonLibrary.dll
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\CommonLibrary\obj\Debug\TST.CommonLibrary.pdb

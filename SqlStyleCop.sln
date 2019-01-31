@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlStyleCop", "SqlStyleCop\SqlStyleCop.csproj", "{3523B99B-F051-46F2-9814-7DAA1F6C317C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibrary", "CommonLibrary\CommonLibrary.csproj", "{CAA59F12-F029-4FA9-8EDA-593DF08E2FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3523B99B-F051-46F2-9814-7DAA1F6C317C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3523B99B-F051-46F2-9814-7DAA1F6C317C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3523B99B-F051-46F2-9814-7DAA1F6C317C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3523B99B-F051-46F2-9814-7DAA1F6C317C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA59F12-F029-4FA9-8EDA-593DF08E2FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA59F12-F029-4FA9-8EDA-593DF08E2FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA59F12-F029-4FA9-8EDA-593DF08E2FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA59F12-F029-4FA9-8EDA-593DF08E2FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

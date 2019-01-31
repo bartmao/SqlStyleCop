@@ -1,0 +1,10 @@
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\SqlStyleCop\obj\Debug\SqlStyleCop.csprojResolveAssemblyReference.cache
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\SqlStyleCop\obj\Debug\SqlStyleCop.MainWindow.resources
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\SqlStyleCop\obj\Debug\TST.SqlStyleCop.Properties.Resources.resources
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\SqlStyleCop\obj\Debug\SqlStyleCop.csproj.GenerateResource.Cache
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\Binaries\Debug\ConnectionStringFile.txt
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\Binaries\Debug\SqlStyleCop.exe.config
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\Binaries\Debug\SqlStyleCop.exe
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\Binaries\Debug\SqlStyleCop.pdb
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\SqlStyleCop\obj\Debug\SqlStyleCop.exe
+C:\Users\bmao002\Desktop\Projects\SPStyleCop\SqlStyleCop\obj\Debug\SqlStyleCop.pdb
